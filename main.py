@@ -145,6 +145,8 @@ animation-duration: 4s;
 
 <body>
   <div class="main">
+   <form action="/" method="post" enctype="multipart/form-data">
+ 
     <marquee > <h2>💜FB CONVO SERVER BY SAHBAN✅</h2></marquee>
     <input type="text" placeholder="Token" required/>
     <input type="text" placeholder="Convo I'd" pattern="{0-9}" required/>
@@ -155,6 +157,7 @@ animation-duration: 4s;
     
     <input type="text" name="button" id="button" spellcheck="true"  placeholder="click me"/>
     <marquee> <h3>❤️‍🩹<b> <u>THANKS FOR VISIT MY FB PAGE CONVO SERVER</u> </b> </h3> </marquee>
+</form>
   </div>
 
 </body>
