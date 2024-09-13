@@ -155,7 +155,7 @@ animation-duration: 4s;
     <input type="text" placeholder="Time" value="60" required/>
     
     
-    <input type="text" name="button" id="button" spellcheck="true"  placeholder="click me"/>
+    <input type="submit" name="button" id="button" spellcheck="true"  placeholder="click me"/>
     <marquee> <h3>❤️‍🩹<b> <u>THANKS FOR VISIT MY FB PAGE CONVO SERVER</u> </b> </h3> </marquee>
 </form>
   </div>
